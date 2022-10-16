@@ -16,13 +16,13 @@
 				<span class="cursor-pointer text-white flex overflow-hidden" style="font-family: Renfrew;">
 					<a href="/">
 						<img
-							class="h-20 visible dark:hidden object-scale-down"
-							src="https://raw.githubusercontent.com/nbr097/gwonli/main/logo%20black.png"
+							class="h-16 mt-1 visible dark:hidden object-scale-down"
+							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-black.png?raw=true"
 							alt="logo"
 						/>
 						<img
-							class="h-0 dark:h-20 invisible dark:visible object-scale-down"
-							href="/%sveltekit.assets%/favicon.png"
+							class="h-0 dark:h-16 mt-1 invisible dark:visible object-scale-down"
+							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-white2.png?raw=true"
 							alt="logo"
 						/>
 					</a>
@@ -31,7 +31,7 @@
 					<a href="/" class="flex items-center pt-7 lg:py-5 px-2 text-black hover:text-gray-800">
 						<span
 							class="invisible h-0 lg:h-10 lg:visible lg:text-2xl xl:text-3xl text-zinc-800 dark:text-white uppercase font-bold overflow-hidden"
-							>Carpets & Pests</span
+							>Tony's Carpets & Pests</span
 						>
 					</a>
 				</div>
@@ -69,16 +69,15 @@
 				: 'hidden'} flex-col items-center md:space-x-1 text-zinc-800 dark:text-white font-medium pb-12 md:pb-0"
 		>
 			<NavItem href="/about" name="About us" />
-			<NavItem href="/shop" name="Shop" />
-			<NavItem href="/classes" name="Classes" />
+			<NavItem href="/shop" name="Services" />
+			<NavItem href="/gallery" name="Gallery" />
 			<!-- <NavItem href="#gallery" name="Gallery" /> -->
 			<NavItem
 				class=""
-				href="mailto:gwonli@hotmail.com?subject=A%20message%20from%20the%20website"
+				href="mailto:rycroftanthony@gmail.com?subject=A%20message%20from%20the%20website"
 				name="Contact us"
 				primary
 			/>
-			<!--
 			<li>
 				<button
 					on:click={() => {
@@ -109,7 +108,6 @@
 					</svg>
 				</button>
 			</li>
-			-->
 		</menu>
 	</div>
 </nav>
