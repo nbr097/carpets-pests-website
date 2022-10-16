@@ -17,12 +17,12 @@
 					<a href="/">
 						<img
 							class="h-16 mt-1 visible dark:hidden object-scale-down"
-							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-black.png?raw=true"
+							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-black2.png?raw=true"
 							alt="logo"
 						/>
 						<img
 							class="h-0 dark:h-16 mt-1 invisible dark:visible object-scale-down"
-							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-white2.png?raw=true"
+							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-white.png?raw=true"
 							alt="logo"
 						/>
 					</a>
