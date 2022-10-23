@@ -9,15 +9,15 @@
 	$: if ($navigating) mobileNavExpanded = false;
 </script>
 
-<nav class="fixed right-0 left-0 shadow z-50 dark:bg-zinc-800 bg-slate-50 flex justify-center">
+<nav class="fixed right-0 left-0 shadow z-50 dark:bg-zinc-800 bg-green-500 flex justify-center">
 	<div class="w-full max-w-7xl px-4 flex flex-col md:flex-row md:justify-between">
 		<div class="flex justify-between">
 			<div class="flex space-x-4 py-2 mx-0 justify-between">
-				<span class="cursor-pointer text-white flex overflow-hidden" style="font-family: Renfrew;">
+				<span class="cursor-pointer text-white flex overflow-hidden" >
 					<a href="/">
 						<img
 							class="h-16 mt-1 visible dark:hidden object-scale-down"
-							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-black2.png?raw=true"
+							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-white.png?raw=true"
 							alt="logo"
 						/>
 						<img
@@ -28,9 +28,9 @@
 					</a>
 				</span>
 				<div class="overflow-hidden">
-					<a href="/" class="flex items-center pt-7 lg:py-5 px-2 text-black hover:text-gray-800">
+					<a href="/" class="flex items-center pt-7 lg:py-5 px-2 text-white hover:text-gray-800">
 						<span
-							class="invisible h-0 lg:h-10 lg:visible lg:text-2xl xl:text-3xl text-zinc-800 dark:text-white uppercase font-bold overflow-hidden"
+							class="invisible h-0 lg:h-10 lg:visible lg:text-2xl xl:text-3xl text-white dark:text-white uppercase font-bold overflow-hidden"
 							>Tony's Carpets & Pests</span
 						>
 					</a>
@@ -41,7 +41,7 @@
 				<button class="mobile-menu-button">
 					<!-- svelte-ignore a11y-click-events-have-key-events -->
 					<svg
-						class="ham hamRotate ham4 text-zinc-800 dark:text-white"
+						class="ham hamRotate ham4 text-white dark:text-white"
 						viewBox="0 0 100 100"
 						width="60"
 						onclick="this.classList.toggle('active')"
@@ -66,7 +66,7 @@
 		<menu
 			class="md:flex md:flex-row {mobileNavExpanded
 				? ''
-				: 'hidden'} flex-col items-center md:space-x-1 text-zinc-800 dark:text-white font-medium pb-12 md:pb-0"
+				: 'hidden'} flex-col items-center md:space-x-1 text-white dark:text-white font-medium pb-12 md:pb-0"
 		>
 			<NavItem href="/about" name="About us" />
 			<NavItem href="/shop" name="Services" />

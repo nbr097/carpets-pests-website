@@ -19,15 +19,12 @@
 				<span
 					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-white border-zinc-800"
 				>
-					<svg class="h-full w-full text-gray-300" fill="currentColor" viewBox="0 0 24 24">
-						<path
-							d="M24 20.993V24H0v-2.996A14.977 14.977 0 0112.004 15c4.904 0 9.26 2.354 11.996 5.993zM16.002 8.999a4 4 0 11-8 0 4 4 0 018 0z"
-						/>
-					</svg>
+				<!-- svelte-ignore a11y-missing-attribute -->
+				<img class="h-full" src="https://lh3.googleusercontent.com/a-/ACNPEu-_W0X3Lf7NX4aSLJ6Ccym_HF96PWb0KmBDAdnd9Q=w60-h60-p-rp-mo-br100">
 				</span>
 			</div>
-			<h5 class="text-xl font-semibold mb-4">Ashlee</h5>
-			<h6 class="font-semibold text-red-600 mb-4">Former Gwonli Student</h6>
+			<h5 class="text-xl font-semibold mb-4">Marissa</h5>
+			<h6 class="font-semibold text-red-600 mb-4">Customer</h6>
 			<p class="mb-4 text-justify">
 				<svg
 					aria-hidden="true"
@@ -43,10 +40,7 @@
 						fill="currentColor"
 						d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"
 					/></svg
-				>The curriculum for this martial art is so amazing and teaching so many important things. It
-				helps learn not only self defence but things for life. I have been enjoying these classes
-				immensely and can’t recommend them enough. The instructor is very knowledgeable in this area
-				and can teach you many things. You need to get involved in this program.
+				>On time, good price, very nice! did both carpets and pest control after bond clean. Our carpets were installed in poor condition from the builders which is what the wrinkles are from.
 			</p>
 			<ul class="flex justify-center mb-0">
 				<li>
@@ -141,15 +135,12 @@
 				<span
 					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-white border-zinc-800"
 				>
-					<svg class="h-full w-full text-gray-300" fill="currentColor" viewBox="0 0 24 24">
-						<path
-							d="M24 20.993V24H0v-2.996A14.977 14.977 0 0112.004 15c4.904 0 9.26 2.354 11.996 5.993zM16.002 8.999a4 4 0 11-8 0 4 4 0 018 0z"
-						/>
-					</svg>
+				<!-- svelte-ignore a11y-missing-attribute -->
+				<img class="h-full" src="https://lh3.googleusercontent.com/a-/ACNPEu9bOoomxLe6QO6pHJ7BKHA5wtU5_IZo5lTtegmr=w60-h60-p-rp-mo-ba2-br100">
 				</span>
 			</div>
-			<h5 class="text-xl font-semibold mb-4">Helen</h5>
-			<h6 class="font-semibold text-red-600 mb-4">Grandparent of Student</h6>
+			<h5 class="text-xl font-semibold mb-4">Nicolene</h5>
+			<h6 class="font-semibold text-red-600 mb-4">Customer</h6>
 			<p class="mb-4 text-justify">
 				<svg
 					aria-hidden="true"
@@ -165,8 +156,7 @@
 						fill="currentColor"
 						d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"
 					/>
-				</svg>Great friendly little club with variety of codes to keep you interested... My grandson
-				loves it and has been going 2 to 3 times a week...
+				</svg>Tony was on time, efficient, friendly and professional. The carpets at our office building in North Lakes needed a good clean and we were very pleased with the result. We highly recommend!
 			</p>
 			<ul class="flex justify-center mb-0">
 				<li>
@@ -261,15 +251,13 @@
 				<span
 					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-white border-zinc-800"
 				>
-					<svg class="h-full w-full text-gray-300" fill="currentColor" viewBox="0 0 24 24">
-						<path
-							d="M24 20.993V24H0v-2.996A14.977 14.977 0 0112.004 15c4.904 0 9.26 2.354 11.996 5.993zM16.002 8.999a4 4 0 11-8 0 4 4 0 018 0z"
-						/>
-					</svg>
+				
+				<!-- svelte-ignore a11y-missing-attribute -->
+				<img class="h-full" src="https://lh3.googleusercontent.com/a-/ACNPEu-suxCY6Nu340KPLUpiFMmG_eqxLCkJQe2PneV4Pg=w60-h60-p-rp-mo-br100">
 				</span>
 			</div>
-			<h5 class="text-xl font-semibold mb-4">Mitchell</h5>
-			<h6 class="font-semibold text-red-600 mb-4">Gwonli Student</h6>
+			<h5 class="text-xl font-semibold mb-4">Meliss</h5>
+			<h6 class="font-semibold text-red-600 mb-4">Customer</h6>
 			<p class="mb-4 text-justify">
 				<svg
 					aria-hidden="true"
@@ -285,11 +273,7 @@
 						fill="currentColor"
 						d="M464 256h-80v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8c-88.4 0-160 71.6-160 160v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48zm-288 0H96v-64c0-35.3 28.7-64 64-64h8c13.3 0 24-10.7 24-24V56c0-13.3-10.7-24-24-24h-8C71.6 32 0 103.6 0 192v240c0 26.5 21.5 48 48 48h128c26.5 0 48-21.5 48-48V304c0-26.5-21.5-48-48-48z"
 					/></svg
-				>Pete’s friendly and approachable demeanour, decades of experience across a range of martial
-				arts, and genuine passion for combat sports shines through every lesson. Highly recommend
-				Gwonli for those interested in both traditional and modern mixed martial arts with time
-				spent learning striking as well as grappling techniques. Plus, Pete’s just an all-round
-				great bloke!
+				>Tony's Carpet cleaning is the best ive used in a long time. He really takes pride in his work, and went above and beyond to help! The carpets came up "beautiful" - "thankyou Tony!"
 			</p>
 			<ul class="flex justify-center mb-0">
 				<li>
