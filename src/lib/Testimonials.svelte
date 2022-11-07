@@ -2,14 +2,11 @@
 	<div class="text-center md:max-w-xl lg:max-w-3xl mx-auto">
 		<h3
 			class="text-3xl font-bold mb-6 dark:text-white text-zinc-800 overflow-hidden text-medium uppercase"
-			style="font-family:renfrew;"
 		>
 			Testimonials
 		</h3>
 		<p class="mb-6 pb-2 md:mb-12 md:pb-0">
-			We at Gwonli Martial Arts take pride in being accepting, engaging, encouraging, patient and
-			above all else passionate about many forms of martial arts and we would love for you to read
-			some of not only our students words but the words from the people around them too.
+			Tony's Carpets & Pest control takes pride in all the services we offer to ensure that you get the best possible result from our service. If you don't believe us just have a read of what some of our valued customers have said.
 		</p>
 	</div>
 
@@ -17,14 +14,14 @@
 		<div class="mb-0">
 			<div class="flex justify-center mb-6">
 				<span
-					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-white border-zinc-800"
+					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-green-500 border-blue-500"
 				>
 				<!-- svelte-ignore a11y-missing-attribute -->
 				<img class="h-full" src="https://lh3.googleusercontent.com/a-/ACNPEu-_W0X3Lf7NX4aSLJ6Ccym_HF96PWb0KmBDAdnd9Q=w60-h60-p-rp-mo-br100">
 				</span>
 			</div>
 			<h5 class="text-xl font-semibold mb-4">Marissa</h5>
-			<h6 class="font-semibold text-red-600 mb-4">Customer</h6>
+			<h6 class="font-semibold dark:text-blue-400 text-zinc-800 mb-4">Customer</h6>
 			<p class="mb-4 text-justify">
 				<svg
 					aria-hidden="true"
@@ -133,14 +130,14 @@
 		<div class="mb-12 md:mb-0">
 			<div class="flex justify-center mb-6">
 				<span
-					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-white border-zinc-800"
+					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-green-500 border-blue-500"
 				>
 				<!-- svelte-ignore a11y-missing-attribute -->
 				<img class="h-full" src="https://lh3.googleusercontent.com/a-/ACNPEu9bOoomxLe6QO6pHJ7BKHA5wtU5_IZo5lTtegmr=w60-h60-p-rp-mo-ba2-br100">
 				</span>
 			</div>
 			<h5 class="text-xl font-semibold mb-4">Nicolene</h5>
-			<h6 class="font-semibold text-red-600 mb-4">Customer</h6>
+			<h6 class="font-semibold dark:text-blue-400 text-zinc-800 mb-4">Customer</h6>
 			<p class="mb-4 text-justify">
 				<svg
 					aria-hidden="true"
@@ -249,7 +246,7 @@
 		<div class="mb-12 md:mb-0">
 			<div class="flex justify-center mb-6">
 				<span
-					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-white border-zinc-800"
+					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-green-500 border-blue-500"
 				>
 				
 				<!-- svelte-ignore a11y-missing-attribute -->
@@ -257,7 +254,7 @@
 				</span>
 			</div>
 			<h5 class="text-xl font-semibold mb-4">Meliss</h5>
-			<h6 class="font-semibold text-red-600 mb-4">Customer</h6>
+			<h6 class="font-semibold dark:text-blue-400 text-zinc-800 mb-4">Customer</h6>
 			<p class="mb-4 text-justify">
 				<svg
 					aria-hidden="true"
