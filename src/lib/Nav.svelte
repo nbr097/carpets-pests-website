@@ -9,28 +9,30 @@
 	$: if ($navigating) mobileNavExpanded = false;
 </script>
 
-<nav class="fixed right-0 left-0 shadow z-50 dark:bg-zinc-800 bg-green-500 flex justify-center">
+<nav class="fixed right-0 left-0 shadow z-50 dark:bg-zinc-800 bg-blue-500 flex justify-center">
 	<div class="w-full max-w-7xl px-4 flex flex-col md:flex-row md:justify-between">
 		<div class="flex justify-between">
 			<div class="flex space-x-4 py-2 mx-0 justify-between">
-				<span class="cursor-pointer text-white flex overflow-hidden" >
+				<span class="cursor-pointer  text-white flex overflow-hidden" >
 					<a href="/">
 						<img
-							class="h-16 mt-1 visible dark:hidden object-scale-down"
-							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-white.png?raw=true"
+							class="h-16 mt-1 visible object-scale-down"
+							src="https://github.com/nbr097/carpets-pests-website/blob/main/static/images/tony-logo-white.png?raw=true"
 							alt="logo"
 						/>
+						<!--
 						<img
 							class="h-0 dark:h-16 mt-1 invisible dark:visible object-scale-down"
-							src="https://github.com/nbr097/carpets-pests-website/blob/main/carpets-website/static/images/tony-logo-white.png?raw=true"
+							src="https://github.com/nbr097/carpets-pests-website/blob/main/static/images/tony-logo-white.png?raw=true"
 							alt="logo"
 						/>
+						-->
 					</a>
 				</span>
 				<div class="overflow-hidden">
 					<a href="/" class="flex items-center pt-7 lg:py-5 px-2 text-white hover:text-gray-800">
 						<span
-							class="invisible h-0 lg:h-10 lg:visible lg:text-2xl xl:text-3xl text-white dark:text-white uppercase font-bold overflow-hidden"
+							class="invisible h-0 lg:h-10 lg:visible lg:text-2xl xl:text-3xl text-white uppercase font-bold overflow-hidden"
 							>Tony's Carpets & Pests</span
 						>
 					</a>
@@ -78,6 +80,7 @@
 				name="Contact us"
 				primary
 			/>
+			<!---->
 			<li>
 				<button
 					on:click={() => {

@@ -8,31 +8,25 @@
 			<div class="carousel-item active relative float-left w-full">
 				<img
 					src="/images/background/bg1.jpg"
-					class="block w-full object-cover max-h-screen min-h-screen"
+					class="block w-full object-cover max-h-screen min-h-screen blur-sm"
 					alt="..."
 				/>
 				<div
 					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 md:gap-0 grid-flow-row h-mi w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
 				>
 					<div
-						style="font-family: renfrew;"
+						
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
-						<p>Courage,</p>
-						<p class="py-2">Honour,</p>
-						<p>Respect</p>
+						<p class="overflow-hidden" >Carpets,</p>
+						<p class="py-2 overflow-hidden">Upholstry,</p>
+						<p class="overflow-hidden" >Tiles & More</p>
 					</div>
 					<div
-						class="box h-min w-max text-white text-right mx-auto text-lg md:-mt-0 -mt-32 md:pt-0"
+						class="box h-min w-max text-white text-left mx-auto text-2xl md:-mt-0 -mt-32 md:pt-0 pl-8"
 					>
 						<p class="">
-							Victory comes from finding<br />opportunities in the problem<br />- Sun Tzu
-						</p>
-						<br />
-						<p>
-							Do not pray for an easy<br />life, pray for the courage,<br />to endure a difficult
-							one.
-							<br /> - Bruce Lee
+							At Tony's we offer a <br />multidue of services,<br />ranging from carpets to pests, <br /> we do it all!
 						</p>
 					</div>
 				</div>
@@ -47,7 +41,7 @@
 					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 grid-flow-row h-max w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
 				>
 					<div
-						style="font-family: renfrew;"
+						
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
 						<p>Fall Down</p>
@@ -74,7 +68,7 @@
 					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 grid-flow-row h-max w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
 				>
 					<div
-						style="font-family: renfrew;"
+						
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-7xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
 						<p>Be the</p>
