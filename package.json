@@ -36,6 +36,5 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"node": "^19.1.0",
 	}
 }
