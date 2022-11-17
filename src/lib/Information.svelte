@@ -24,7 +24,7 @@ We at Tony's believe in Integrity, professionalism, promptness and care which is
 			</div>
 			<div class="box col-span-4 mx-auto pt-6">
 				<a href="/about">
-					<button class="text-white w-28 h-12 rounded-lg hover:bg-red-500 bg-red-600 font-bold"
+					<button class="text-white w-28 h-12 rounded-lg hover:bg-blue-500 bg-blue-600 font-bold"
 						>Read More
 					</button>
 				</a>
