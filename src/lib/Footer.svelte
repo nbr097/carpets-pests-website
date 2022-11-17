@@ -24,23 +24,23 @@
 		<div
 			class="box md:col-span-1  md:text-right lg:text-right self-center sm:text-center text-center"
 		>
-			<div class="h1 text-2xl font-bold pb-6 text-red-600 uppercase" >
+			<div class="h1 text-2xl font-bold pb-6 text-blue-600 uppercase" >
 				Contact Us
 			</div>
 			<p>
-				<b class="text-red-600">Phone:</b> <a href="tel:+61402693530">0402&nbsp;693&nbsp;530</a>
+				<b class="text-blue-600">Phone:</b> <a href="tel:+61402693530">0402&nbsp;693&nbsp;530</a>
 			</p>
 			<br />
 			<a href="mailto:hello@cartpetandpests.com.au">
 				<p>
-					<b class="text-red-600">Email:</b>
+					<b class="text-blue-600">Email:</b>
 					<a href="mailto:hello@cartpetandpests.com.au">hello@carpetandpests.com.au</a>
 				</p>
 			</a>
 			<br />
 			
 			<div
-				class="invisible md:visible  h1 text-2xl font-bold pb-6 text-red-600 uppercase"
+				class="invisible md:visible  h1 text-2xl font-bold pb-6 text-blue-600 uppercase"
 				
 			>
 				Socials
