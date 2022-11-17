@@ -31,10 +31,10 @@
 				<b class="text-blue-600">Phone:</b> <a href="tel:+61402693530">0402&nbsp;693&nbsp;530</a>
 			</p>
 			<br />
-			<a href="mailto:hello@cartpetandpests.com.au">
+			<a href="mailto:rycroftanthony@gmail.com?subject=A%20Message%20from%20the%20Website&body=Hi%0D%0A%0D%0AI%20would%20like%20to%20request%20a%20quote%3A%20Yes%20%2F%20No%0D%0AI%20would%20like%20to%20ask%20a%20question%3A%20Yes%20%2F%20No%0D%0A%0D%0ABest%20Contact%20Number%3A%0D%0A%0D%0A%0D%0AWhat%20was%20the%20question%20(if%20applicable)%3F%0D%0A%0D%0AKind%20regards%2C%0D%0A">
 				<p>
 					<b class="text-blue-600">Email:</b>
-					<a href="mailto:hello@cartpetandpests.com.au">hello@carpetandpests.com.au</a>
+					<a href="mailto:rycroftanthony@gmail.com?subject=A%20Message%20from%20the%20Website&body=Hi%0D%0A%0D%0AI%20would%20like%20to%20request%20a%20quote%3A%20Yes%20%2F%20No%0D%0AI%20would%20like%20to%20ask%20a%20question%3A%20Yes%20%2F%20No%0D%0A%0D%0ABest%20Contact%20Number%3A%0D%0A%0D%0A%0D%0AWhat%20was%20the%20question%20(if%20applicable)%3F%0D%0A%0D%0AKind%20regards%2C%0D%0A">hello@carpetandpests.com.au</a>
 				</p>
 			</a>
 			<br />
