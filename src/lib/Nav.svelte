@@ -73,14 +73,13 @@
 			<NavItem href="/about" name="About us" />
 			<NavItem href="/services" name="Services" />
 			<NavItem href="/gallery" name="Gallery" />
-			<!-- <NavItem href="#gallery" name="Gallery" /> -->
 			<NavItem
 				class=""
 				href="mailto:rycroftanthony@gmail.com?subject=A%20message%20from%20the%20website"
 				name="Contact us"
 				primary
 			/>
-			<!---->
+			<!--
 			<li>
 				<button
 					on:click={() => {
@@ -111,6 +110,7 @@
 					</svg>
 				</button>
 			</li>
+			-->
 		</menu>
 	</div>
 </nav>
