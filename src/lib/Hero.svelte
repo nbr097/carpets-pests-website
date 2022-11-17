@@ -26,7 +26,7 @@
 						class="box h-min w-max text-white text-left mx-auto text-2xl md:-mt-0 -mt-32 md:pt-0 pl-8"
 					>
 						<p class="">
-							At Tony's we offer a <br />multidue of services,<br />ranging from carpets to pests, <br /> we do it all!
+							At Tony's we offer a <br />multidue of services,<br />ranging from carpets to pests, <br /> and everything inbetween,<br/> we do it all!
 						</p>
 					</div>
 				</div>
@@ -38,22 +38,21 @@
 					alt="..."
 				/>
 				<div
-					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 grid-flow-row h-max w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
+					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 md:gap-0 grid-flow-row h-mi w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
 				>
 					<div
 						
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
-						<p>Fall Down</p>
-						<p class="py-2">7 times,</p>
-						<p>Get up 8</p>
+						<p class="overflow-hidden" >Carpets,</p>
+						<p class="py-2 overflow-hidden">Upholstry,</p>
+						<p class="overflow-hidden" >Tiles & More</p>
 					</div>
 					<div
-						class="box w-max text-white -mt-28 md:-mt-0 md:text-right text-center mx-auto text-2xl pl-0 md:pl-7 pt-0 md:pt-0"
+						class="box h-min w-max text-white text-left mx-auto text-2xl md:-mt-0 -mt-32 md:pt-0 pl-8"
 					>
 						<p class="">
-							Learning defence improves the<br /> attack. if the lion knows how the <br /> can
-							escape, it'll capture it<br /> in a more precise way.<br />-R. Grace
+							At Tony's we offer a <br />multidue of services,<br />ranging from carpets to pests, <br /> and everything inbetween,<br/> we do it all!
 						</p>
 					</div>
 				</div>
@@ -65,22 +64,21 @@
 					alt="..."
 				/>
 				<div
-					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 grid-flow-row h-max w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
+					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 md:gap-0 grid-flow-row h-mi w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
 				>
 					<div
 						
-						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-7xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
+						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
-						<p>Be the</p>
-						<p class="py-2">best you</p>
-						<p>can be</p>
+						<p class="overflow-hidden" >Carpets,</p>
+						<p class="py-2 overflow-hidden">Upholstry,</p>
+						<p class="overflow-hidden" >Tiles & More</p>
 					</div>
 					<div
-						class="box w-max text-white -mt-28 md:-mt-0 text-center md:text-right mx-auto text-2xl pt-0 md:pt-0"
+						class="box h-min w-max text-white text-left mx-auto text-2xl md:-mt-0 -mt-32 md:pt-0 pl-8"
 					>
 						<p class="">
-							in the struggle between<br />the stone and water,<br /> in time, the water wins.<br
-							/>- Japanese Proverb
+							At Tony's we offer a <br />multidue of services,<br />ranging from carpets to pests, <br /> and everything inbetween,<br/> we do it all!
 						</p>
 					</div>
 				</div>
