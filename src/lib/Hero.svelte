@@ -33,8 +33,8 @@
 			</div>
 			<div class="carousel-item relative float-left w-full">
 				<img
-					src="/images/background/bg2.jpg"
-					class="block w-full object-cover max-h-screen min-h-screen"
+					src="/images/services/bond.jpg"
+					class="block w-full object-cover max-h-screen min-h-screen blur-sm"
 					alt="..."
 				/>
 				<div
@@ -44,15 +44,14 @@
 						
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
-						<p class="overflow-hidden" >Carpets,</p>
-						<p class="py-2 overflow-hidden">Upholstry,</p>
-						<p class="overflow-hidden" >Tiles & More</p>
+						<p class="overflow-hidden" >Guess what!</p>
+						<p class="py-2 overflow-hidden">Did you Know?</p>		
 					</div>
 					<div
 						class="box h-min w-max text-white text-left mx-auto text-2xl md:-mt-0 -mt-32 md:pt-0 pl-8"
 					>
 						<p class="">
-							At Tony's we offer a <br />multidue of services,<br />ranging from carpets to pests, <br /> and everything inbetween,<br/> we do it all!
+							At Tony's we have just <br />recently launched a new service!<br />We can now do <br /> your bond clean for you!
 						</p>
 					</div>
 				</div>
@@ -70,15 +69,17 @@
 						
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
-						<p class="overflow-hidden" >Carpets,</p>
-						<p class="py-2 overflow-hidden">Upholstry,</p>
-						<p class="overflow-hidden" >Tiles & More</p>
+						<p class="overflow-hidden" >Dirty,</p>
+						<p class="py-2 overflow-hidden">slimy,</p>
+						<p class="overflow-hidden" >Gross</p>
+						<p class="overflow-hidden" >Leather?</p>
+
 					</div>
 					<div
 						class="box h-min w-max text-white text-left mx-auto text-2xl md:-mt-0 -mt-32 md:pt-0 pl-8"
 					>
 						<p class="">
-							At Tony's we offer a <br />multidue of services,<br />ranging from carpets to pests, <br /> and everything inbetween,<br/> we do it all!
+							We can get your<br/>well used leather furniture<br/>looking brand new again<br/>ask us how!
 						</p>
 					</div>
 				</div>
