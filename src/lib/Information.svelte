@@ -14,15 +14,17 @@
 				</div>
 			</div>
 			<div
-				class="box row-span-2 h-min col-span-4 text-zinc-800 dark:text-white pt-10 md:pt-0 md:-mt-12 lg:-mt-0 mx-auto translate-y-0 top-0 lg:translate-y-1/2 lg:top-1/2"
+				class="box row-span-2 h-min col-span-4 text-zinc-800 dark:text-white lg:pt-10 sm:pt-20 md:-mt-12 lg:-mt-0 mx-auto translate-y-0 lg:translate-y-1/4 lg:top-1/2 "
 			>
-				<p class="font-medium text-zinc-800 dark:text-white text-justify px-8 lg:pl-10">
+				<p class="font-medium text-zinc-800 dark:text-white text-justify px-8 pt-20 md:pt-0 lg:-mt-10 lg:pl-10">
+					We service a large area of South East Queensland, ranging from Caloundra, Ipswich and even down to Beenleigh. If you need our services, we probably service your area. Contact us to find out! <br/> <br/>
+
 					At Tony's we believe that it's the people that make it a home, however it's the people that also bring in dirt and bacteria from the outside world that can accumulate over time and build up in common household areas such as carpets, couches and even the tiles that you might have just cleaned. 
 <br/> <br/>
 We at Tony's believe in Integrity, professionalism, promptness and care which is why we are one of the industry leaders when it comes to our cleaning services. We can do residential and commercial properties to fit your needs.
 				</p>
 			</div>
-			<div class="box col-span-4 mx-auto pt-6">
+			<div class="box col-span-4 mx-auto pt-12 md:pt-20">
 				<a href="/about">
 					<button class="text-white w-28 h-12 rounded-lg hover:bg-blue-500 bg-blue-600 font-bold"
 						>Read More
