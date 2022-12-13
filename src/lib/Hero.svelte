@@ -33,7 +33,7 @@
 			</div>
 			<div class="carousel-item relative float-left w-full">
 				<img
-					src="/images/services/bond.jpg"
+					src="/images/services/bond2.jpg"
 					class="block w-full object-cover max-h-screen min-h-screen blur-sm"
 					alt="..."
 				/>
