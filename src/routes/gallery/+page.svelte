@@ -14,6 +14,9 @@
         <GalleryItem imgsrc="/images/gallery/carpets.jpg" alttext="carpet clean difference"></GalleryItem>
         <GalleryItem imgsrc="/images/gallery/up.jpg" alttext="cleaning of couch difference"></GalleryItem>
         <GalleryItem imgsrc="/images/gallery/leather.jpg" alttext="cleaning of leather difference"></GalleryItem>
+        <GalleryItem imgsrc="/images/gallery/bond2.jpg" alttext="cleaning of leather difference"></GalleryItem>
+        <GalleryItem imgsrc="/images/gallery/bond3.jpg" alttext="cleaning of leather difference"></GalleryItem>
+
       </div>
     </div>
   </section>

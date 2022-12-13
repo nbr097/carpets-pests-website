@@ -132,7 +132,7 @@
       <div class="container mx-auto pt-20">
         <section aria-labelledby="features-heading" class="relative">
           <div class="aspect-w-3 aspect-h-2 overflow-hidden sm:aspect-w-5 lg:aspect-none lg:absolute lg:h-full lg:w-1/2 lg:pr-4 xl:pr-16">
-            <img src="/images/services/bond.jpg" alt="Hand cleaning tiles" class="h-full w-full object-cover object-center lg:h-full lg:w-full rounded-3xl">
+            <img src="/images/services/bond2.jpg" alt="Hand cleaning tiles" class="h-full w-full object-cover object-center lg:h-full lg:w-full rounded-3xl">
           </div>
       
           <div class="mx-auto max-w-2xl px-4 pt-16 pb-24 sm:px-6 sm:pb-8 lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
