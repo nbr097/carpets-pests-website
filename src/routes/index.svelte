@@ -2,6 +2,7 @@
 	import Testimonials from '$lib/Testimonials.svelte';
     import Hero from '$lib/Hero.svelte';
     import Information from '$lib/Information.svelte';
+    import Carousel from '$lib/svelte-carousel';
 </script>
 
 <head>
@@ -10,5 +11,6 @@
 
 
 <Hero />
+<Carousel/>
 <Information/>
 <Testimonials/>
