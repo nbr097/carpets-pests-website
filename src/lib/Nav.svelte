@@ -71,6 +71,7 @@
 				: 'hidden'} flex-col items-center md:space-x-1 text-white dark:text-white font-medium pb-12 md:pb-0"
 		>
 			<NavItem href="/about" name="About us" />
+			<NavItem href="/blog" name="Blog" />
 			<NavItem href="/services" name="Services" />
 			<NavItem href="/gallery" name="Gallery" />
 			<NavItem

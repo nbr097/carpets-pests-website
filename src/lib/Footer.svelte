@@ -74,7 +74,7 @@
 <footer class="h-1/6 w-screen dark:bg-zinc-800 dark:text-white text-black text-center text-xs pb-4">
 	<p>
 		<!-- svelte-ignore security-anchor-rel-noreferrer -->
-		&copy; Tony's Carpets & Pests 2022 &#124; Designed and maintained by <a
+		&copy; Tony's Carpets & Pests 2023 &#124; Designed and maintained by <a
 			href="https://nicholasbrown.me"
 			target="_blank"><b>Brown Media</b></a
 		>
