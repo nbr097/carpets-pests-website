@@ -2,9 +2,16 @@
 	import PageHeader from '$lib/PageHeader.svelte';
 </script>
 
-<head>
-	<title>Tony's | Services</title>
-</head>
+<svelte:head>
+    <title>Services | Tony's Carpet & Pests</title>
+    <script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+          "name": "Services | Tony's Carpet & Pests",
+          "url": "https://carpetandpests.com.au/services",
+        }</script>
+    <meta name="description" content="At Tony's we offer a wide range of cleaning services as well as a variety of other options to make your home feel new again!">
+</svelte:head>
 <PageHeader title="Services" ></PageHeader>
 
 

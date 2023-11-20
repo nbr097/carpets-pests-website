@@ -3,6 +3,17 @@
     import GalleryItem from "$lib/GalleryItem.svelte";
 </script>
 
+<svelte:head>
+    <title>Gallery | Tony's Carpet & Pests</title>
+    <script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+          "name": "Gallary | Tony's Carpet & Pests",
+          "url": "https://carpetandpests.com.au/gallery",
+        }</script>
+    <meta name="description" content="Here are a few before and afters of our work at Tony's Carpets & Pests">
+</svelte:head>
+
 <PageHeader title="Gallery"></PageHeader>
 
 

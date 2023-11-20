@@ -3,9 +3,18 @@
 	import PageHeader from '$lib/PageHeader.svelte';
 </script>
 
-<head>
-	<title>Tony's | About Us</title>
-</head>
+<svelte:head>
+    <title>About Us | Tony's Carpet & Pests</title>
+    <script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+          "name": "About Us | Tony's Carpet & Pests",
+          "url": "https://carpetandpests.com.au/about",
+        }</script>
+    <meta name="description" content="Tony's Carpet & Pests is a local company based in Burpengary that offers a wide range of services from carpet cleaning, bond cleaning and pest control to a wide range of different suburbs.">
+</svelte:head>
+
+
 <PageHeader title="About Us" ></PageHeader>
 <div
 	class="grid overflow-hidden p-8 grid-cols-1 md:grid-cols-3 bg-slate-50 dark:bg-zinc-800 grid-rows-1 gap- grid-flow-row max-w-7xl mx-auto pt-20"

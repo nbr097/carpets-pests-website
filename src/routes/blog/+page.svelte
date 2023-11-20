@@ -3,9 +3,16 @@
 	import PageHeader from '$lib/PageHeader.svelte';
 </script>
 
-<head>
-	<title>Tony's | Blog</title>
-</head>
+<svelte:head>
+    <title>Tony's Carpet & Pests</title>
+    <script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+          "name": "Blog | Tony's Carpet & Pests",
+          "url": "https://carpetandpests.com.au/blog",
+        }</script>
+    <meta name="description" content="Here we have some of our weekly tips and tricks to help keep your home in tip top shape!">
+</svelte:head>
 <PageHeader title="Weekly Tips" ></PageHeader>
 
 <main class="bg-white dark:bg-gray-900 text-gray-800 dark:text-white min-h-screen py-8">
