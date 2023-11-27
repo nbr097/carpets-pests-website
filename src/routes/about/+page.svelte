@@ -11,6 +11,9 @@
           "name": "About Us | Tony's Carpet & Pests",
           "url": "https://carpetandpests.com.au/about",
         }</script>
+		<meta name="robots" content="index,follow">
+        <meta name="googlebot" content="index,follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Tony's Carpet & Pests is a local company based in Burpengary that offers a wide range of services from carpet cleaning, bond cleaning and pest control to a wide range of different suburbs.">
 </svelte:head>
 

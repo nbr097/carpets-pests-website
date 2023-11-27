@@ -12,6 +12,9 @@
           "url": "https://carpetandpests.com.au/blog",
         }</script>
     <meta name="description" content="Here we have some of our weekly tips and tricks to help keep your home in tip top shape!">
+    <meta name="robots" content="index,follow">
+        <meta name="googlebot" content="index,follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </svelte:head>
 <PageHeader title="Weekly Tips" ></PageHeader>
 

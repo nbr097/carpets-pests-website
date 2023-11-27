@@ -11,6 +11,9 @@
           "url": "https://carpetandpests.com.au/services",
         }</script>
     <meta name="description" content="At Tony's we offer a wide range of cleaning services as well as a variety of other options to make your home feel new again!">
+    <meta name="robots" content="index,follow">
+        <meta name="googlebot" content="index,follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </svelte:head>
 <PageHeader title="Services" ></PageHeader>
 

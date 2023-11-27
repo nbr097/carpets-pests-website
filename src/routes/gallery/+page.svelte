@@ -12,6 +12,9 @@
           "url": "https://carpetandpests.com.au/gallery",
         }</script>
     <meta name="description" content="Here are a few before and afters of our work at Tony's Carpets & Pests">
+    <meta name="robots" content="index,follow">
+        <meta name="googlebot" content="index,follow">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </svelte:head>
 
 <PageHeader title="Gallery"></PageHeader>
