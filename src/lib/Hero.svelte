@@ -31,7 +31,6 @@
 					</div>
 				</div>
 			</div>
-			<!--
 			<div class="carousel-item relative float-left w-full">
 				<img
 					src="/images/services/bond2.jpg"
@@ -105,5 +104,4 @@
 			<span class="visually-hidden">Next</span>
 		</button>
 	</div>
-	-->
 </section>
