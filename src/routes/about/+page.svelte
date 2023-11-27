@@ -10,7 +10,7 @@
 		"@context": "http://schema.org",
 		"@type": "WebSite",
 		"name": "About Us | Tony's Carpet & Pests",
-		"url": "https://carpetandpests.com.au/about"
+		"url": "https://carpetandpests.com.au/about",
 	  }
 	</script>
 	<meta name="robots" content="index, follow">
