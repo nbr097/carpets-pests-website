@@ -5,7 +5,7 @@
     import Carousel from '$lib/svelte-carousel';
 </script>
 
-<svelte:head>
+<head>
     <title>Tony's Carpet & Pests</title>
     <script type="application/ld+json">
         {
@@ -19,7 +19,7 @@
     <meta name="robots" content="index,follow">
     <meta name="googlebot" content="index,follow">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</svelte:head>
+</head>head>
 
 <Hero />
 <Carousel/>

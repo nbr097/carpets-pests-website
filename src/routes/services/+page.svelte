@@ -2,7 +2,7 @@
 	import PageHeader from '$lib/PageHeader.svelte';
 </script>
 
-<svelte:head>
+<head>
     <title>Services | Tony's Carpet & Pests</title>
     <script type="application/ld+json">{
         "@context": "http://schema.org",
@@ -14,7 +14,7 @@
     <meta name="robots" content="index,follow">
         <meta name="googlebot" content="index,follow">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</svelte:head>
+      </head>
 <PageHeader title="Services" ></PageHeader>
 
 <div class=" pb-10 pt-20">
